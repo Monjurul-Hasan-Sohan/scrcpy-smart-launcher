@@ -76,6 +76,6 @@ python import_subprocess.py
 
 ## 🧑‍💻 Author
 
-Maintained by [Your Name](https://github.com/yourusername)
+Maintained by [sohan](https://github.com/Monjurul-Hasan-Sohan)
 
 Feel free to contribute or fork the project!
