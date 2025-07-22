@@ -1,0 +1,1 @@
+# scrcpy-smart-launcher
